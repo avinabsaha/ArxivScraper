@@ -13,8 +13,8 @@ This repository contains code for Automated downloading of arXiv resources
 ### Description
 
 To use the code,
-Save all the ArXiv IDs of the files required in list_of_ids.txt file
-The downloaded files are saved in Downloads folder
+Save all the ArXiv IDs of the files required in list_of_ids.txt file.
+Run code and the downloaded files are saved in Downloads folder
 
 
 
